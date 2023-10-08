@@ -1,5 +1,5 @@
 const storePrefix = 'human'
-function createName(key : string) {
+function createName(key: string) {
 	return `${storePrefix}-${key}`
 }
 
